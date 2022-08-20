@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Dinamo",
+  "name": "Dinamo Workout - Monitoramento de Treinos e Evolução Física",
   "icons": [
     {
       "src": "favicon.ico",
